@@ -2,3 +2,4 @@
 가우스 나이브 베이즈
 TF-IDF
 confusion matrix
+커널
