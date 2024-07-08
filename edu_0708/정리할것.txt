@@ -1,0 +1,4 @@
+기저함수
+가우스 나이브 베이즈
+TF-IDF
+confusion matrix
