@@ -3,3 +3,4 @@
 TF-IDF
 confusion matrix
 커널
+차원축소 알고리즘 (PCA)
